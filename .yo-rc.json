@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.2.0",
+    "libraryName": "application-customizer-poc",
+    "libraryId": "566336cc-3f4b-4c64-99fc-a87a090334ce",
+    "environment": "spo"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "application-customizer-poc-client-side-solution",
+    "id": "566336cc-3f4b-4c64-99fc-a87a090334ce",
+    "version": "1.0.0.0",
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/application-customizer-poc.sppkg"
+  }
+}
